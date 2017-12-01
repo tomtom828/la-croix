@@ -1,5 +1,6 @@
-# la-croix
-Scheduled reminder to drink water throughout the work day
+# :ocean: La Croix :tangerine:
+Scheduled reminder to drink water throughout the work day. Measurements are in Cans of La Croix.
+
 
 
 ### Cloning Down the Repo
@@ -10,6 +11,11 @@ Single Time Use: Please `cd` into the repo using Powershell and then run `.\drin
 Reminder Setting: Please `cd` into the repo and run `\schedule-tasks\create-task.ps1`
 
 Remove Reminder Setting: Please `cd` into the repo and run `\schedule-tasks\remove-task.ps1`
+
+
+
+### Screenshot
+![GUI Prompt](/screenshot.png)
 
 
 
