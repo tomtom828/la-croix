@@ -1,5 +1,7 @@
 # :ocean: La Croix :tangerine:
-Scheduled reminder to drink water throughout the work day. Measurements are in Cans of La Croix.
+Scheduled reminder to drink water throughout the work day. Measurements are in cans of La Croix. 
+
+Each hour the script calculates how much La Croix you needed to have consumed to meet your workday's water intake goal.
 
 
 
