@@ -10,9 +10,9 @@ This is a Powershell application.
 
 Single Time Use: Please `cd` into the repo using Powershell and then run `.\drink-water.ps1`
 
-Reminder Setting: Please `cd` into the repo and run `\schedule-tasks\create-task.ps1`
+Reminder Setting: Please `cd` into the repo and run `.\schedule-tasks\create-task.ps1`
 
-Remove Reminder Setting: Please `cd` into the repo and run `\schedule-tasks\remove-task.ps1`
+Remove Reminder Setting: Please `cd` into the repo and run `.\schedule-tasks\remove-task.ps1`
 
 
 
